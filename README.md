@@ -8,9 +8,8 @@ Karena suatu saat nanti ketika botnya sekarat, anda tidak kebingungan ditengah j
 
 WROKS 100 %
 
-<img alt="Sample.jpg" src= "https://i.ibb.co.com/TrkwwTf/Screenshot-2024-10-09-14-21-50-817-jp-naver-line-android.jpg">
+<img alt="Sample.jpg" src= "https://i.ibb.co.com/FHFWfq8/Screenshot-2024-10-09-13-36-56-073-jp-naver-line-android.jpg">
 <p>
-
 #TEAM TERMUX BOTS #ZULKIFLI MOKOAGOW
 
 THANKS TO ALL MASTAH
